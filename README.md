@@ -1,2 +1,3 @@
 # odin-recipes
-Returning to study programming
+This is a project with the objective of testing some git commands.
+
